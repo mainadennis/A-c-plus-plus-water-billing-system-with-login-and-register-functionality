@@ -11,7 +11,7 @@
 # Date 
 * Mon ,May 25 2020
 # Github 
-* github.com/maina-dennis
+* github.com/mainadennis
 # 
 <h3>Description</h3>
 <p>A simple water billing system with login and register functionality built in c++,<br>
@@ -48,7 +48,7 @@ the system asks if a user has an account or not, you can choose to use the syste
  i will be happy to assist 
 # 
 ## Found a bug in the program?
- make a pull request at github @ github.com/maina-dennis
+ make a pull request at github @ github.com/mainadennis
 # 
 ## Regards,
 # Dentricedev
