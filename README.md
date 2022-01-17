@@ -7,7 +7,7 @@
 # Author 
  DENNIS MAINA
 # Contact
-* mainaj115@gmail.com
+* maina@dentricedev.com
 # Date 
 * Mon ,May 25 2020
 # Github 
@@ -44,7 +44,7 @@ the system asks if a user has an account or not, you can choose to use the syste
 # 
 ## want something improved or added?
 ## Having troubles implementing?
- reach to me @mainaj115@gmail.com 
+ reach to me@ maina@dentricedev.com
  i will be happy to assist 
 # 
 ## Found a bug in the program?
