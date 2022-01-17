@@ -48,7 +48,7 @@ the system asks if a user has an account or not, you can choose to use the syste
  i will be happy to assist 
 # 
 ## Found a bug in the program?
- make a pull request at github @ github.com/mainadennis
+ make a pull request at github [Here](https://github.com/mainadennis/A-c-plus-plus-water-billing-system-with-login-and-register-functionality/)
 # 
 ## Regards,
-# Dentricedev
+>[Dentricedev Solutions](https://dentricedev.com)
