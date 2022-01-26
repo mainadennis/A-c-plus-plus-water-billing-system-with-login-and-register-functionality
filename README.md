@@ -3,7 +3,6 @@
  *
  * Copyright (c) 2020, Dennis Maina
  * All rights reserved.
- *
 # Author 
  DENNIS MAINA
 # Contact
