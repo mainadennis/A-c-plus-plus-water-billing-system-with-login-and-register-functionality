@@ -1,6 +1,5 @@
  * Project:  Water Billing: A C++ water billing app with login and register functionality.
- * File:     main.cpp
- *
+
  * Copyright (c) 2020, Dennis Maina
  * All rights reserved.
 # Author 
